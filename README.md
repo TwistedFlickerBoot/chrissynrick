@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrissynrick
+- 👋 Hi, I’m @FlickerBoot
 - 👀 I’m interested in almost everything.
 - 🌱 I’m currently learning C and ASM
 - 💞️ I’m looking to collaborate on nothing currently.
