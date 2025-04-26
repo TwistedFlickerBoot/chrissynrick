@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FlickerBoot
+- 👋 Hi, I’m @Merlin
 - 👀 I’m interested in almost everything.
 - 🌱 I’m currently learning C and ASM
 - 💞️ I’m looking to collaborate on nothing currently.
